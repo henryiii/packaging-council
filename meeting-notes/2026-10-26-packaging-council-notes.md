@@ -16,7 +16,7 @@
       - No strong opinion, see what the community thinks
       - Look into how much impact this will have; Paul thinks it's important to think about backward compatibility and impact
       - People don't like to change stuff, don't assume they will
-  - Variants
+Wheel Variants (PEPs 817, 825, 850)
       - Mostly just Paul, disappointed by lack of conversation recently. Not enough community involvement so far
       - More breadth to the current council might help move this forward
   - Long version numbers
